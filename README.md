@@ -1,1 +1,1 @@
-# vco-sample-app
+# vcp-sample-app
